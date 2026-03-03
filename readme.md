@@ -1,4 +1,4 @@
 # Git course
 This is complete git course 
 
-# This is from ug branch 
+# This is from Bug branch 
